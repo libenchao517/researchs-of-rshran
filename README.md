@@ -39,7 +39,7 @@
 [2] Ruisheng Ran, Qianghui Zeng (曾强辉), Xiaopeng Jiang (江小鹏), Bin Fang. Isometric Projection with Reconstruction[J]. The Journal of Supercomputing, 2023, 79(16): 18648-18666.
 [3] Ruisheng Ran, Ji Feng, Zheng Li (李正), Jinping Wang (王金平), Bin Fang. Locality Preserving Projections with Autoencoder[J]. Expert Systems with Applications, 2024, 242: 122750.
 [4] Ruisheng Ran, Jinping Wang (王金平), Bin Fang, Weiming Yang. Neighborhood Preserving Embedding with Autoencoder[J]. Digital Signal Processing, 2024, 145: 104331.
-[5] Ruisheng Ran, Ting Wang (王婷, 2022), Wenfeng Zhang, Bin Fang. Autoencoder-based Discriminant Locality Preserving Projections for Fault Diagnosis[J]. IEEE Transactions on Instrumentation and Measurement, 2025.
+[5] Ruisheng Ran, Ting Wang (王婷, 2022), Wenfeng Zhang, Bin Fang. Autoencoder-based Discriminant Locality Preserving Projections for Fault Diagnosis[J]. IEEE Transactions on Instrumentation and Measurement, 2025, 74 3526113.
 ```
 - 基于PCA-Net的研究
 ```
@@ -53,4 +53,5 @@
 - 格拉斯曼流形上的研究
 ```
 [1] Benchao Li (李本超), Ting Wang (王婷, 2022), Ruisheng Ran. Discriminant Locality Preserving Projection on Grassmann Manifold for Image-Set Classification[J]. The Journal of Supercomputing, 2025, 81(2): 1-27.
+[2] Benchao Li (李本超), Yuamyuan Zheng (郑媛媛), Ruisheng Ran, Bin Fang. Image-set classification using Discriminant Neighborhood Preserving Embedding on Grassmann manifold[J]. Signal Processing, 2025, 235: 110028.
 ```
