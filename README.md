@@ -40,15 +40,19 @@
 [3] Ruisheng Ran, Ji Feng, Zheng Li (李正), Jinping Wang (王金平), Bin Fang. Locality Preserving Projections with Autoencoder[J]. Expert Systems with Applications, 2024, 242: 122750.
 [4] Ruisheng Ran, Jinping Wang (王金平), Bin Fang, Weiming Yang. Neighborhood Preserving Embedding with Autoencoder[J]. Digital Signal Processing, 2024, 145: 104331.
 [5] Ruisheng Ran, Ting Wang (王婷, 2022), Wenfeng Zhang, Bin Fang. Autoencoder-based Discriminant Locality Preserving Projections for Fault Diagnosis[J]. IEEE Transactions on Instrumentation and Measurement, 2025, 74 3526113.
+[6] Ting Wang (王婷, 2022), Yisha Xie. Discriminant Neighborhood Preserving Embedding with Autoencoder for fault diagnosis[C]. In: International Conference on Robotics, Intelligent Control and Artificial Intelligence (RICAI). IEEE, 2024: 532-535.
 ```
 - 基于PCA-Net的研究
 ```
 [1] Jinping Wang (王金平), Ruisheng Ran, Bin Fang. Global and Local Structure Network for Image Classification[J]. IEEE Access, 2023, 11: 27963-27973.
 [2] Jinping Wang (王金平), Ruisheng Ran, Bin Fang. GNPENet: A Novel Convolutional Neural Network with Local Structure for Fault Diagnosis[J]. IEEE Transactions on Instrumentation and Measurement, 2023, 73: 1-16.
+[3] 丁伟哲, 冉瑞生, 胡子成. 基于多分支CNN与改进级联森林的故障诊断[J/OL]. 石河子大学学报(自然科学版), 2025, 43(2): 49-58.
 ```
 - 基于UMAP的研究
 ```
 [1] Benchao Li (李本超), Yuanyuan Zheng (郑媛媛), Ruisheng Ran. 2DUMAP: Two-Dimensional Uniform Manifold Approximation and Projection for Fault Diagnosis[J]. IEEE Access, 2025, 13 12819-12831.
+[2] Benchao Li (李本超), Yun Zou (邹运), Ruisheng Ran. MCFG with GUMAP: A Simple and Effective Clustering Framework on Grassmann Manifold[C]. In: International Conference on Computational Visual Media (CVM 2025). Springer, 2025: 247-265. 
+[3] Yun Zou (邹运), Benchao Li (李本超), Ruisheng Ran. Joint UMAP for Visualization of Time-Dependent Data[C]. In: International Conference on Computational Visual Media (CVM 2025). Springer, 2025: 266-288.
 ```
 - 格拉斯曼流形上的研究
 ```
