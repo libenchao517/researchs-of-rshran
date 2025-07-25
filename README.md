@@ -58,4 +58,5 @@
 ```
 [1] Benchao Li (李本超), Ting Wang (王婷, 2022), Ruisheng Ran. Discriminant Locality Preserving Projection on Grassmann Manifold for Image-Set Classification[J]. The Journal of Supercomputing, 2025, 81(2): 1-27.
 [2] Benchao Li (李本超), Yuamyuan Zheng (郑媛媛), Ruisheng Ran, Bin Fang. Image-set classification using Discriminant Neighborhood Preserving Embedding on Grassmann manifold[J]. Signal Processing, 2025, 235: 110028.
+[3] Zeming Chen (陈泽明), Benchao Li (李本超), Weixiao Dai (戴惟肖), Zicheng Hu (胡子成), Ruisheng Ran. Grassmann Neighborhood Preserving Autoencoder for Image Set Classification[C]. In: International Conference on Intelligent Computing. Singapore: Springer Nature Singapore, 2025: 398-409.
 ```
