@@ -60,3 +60,7 @@
 [2] Benchao Li (李本超), Yuamyuan Zheng (郑媛媛), Ruisheng Ran, Bin Fang. Image-set classification using Discriminant Neighborhood Preserving Embedding on Grassmann manifold[J]. Signal Processing, 2025, 235: 110028.
 [3] Zeming Chen (陈泽明), Benchao Li (李本超), Weixiao Dai (戴惟肖), Zicheng Hu (胡子成), Ruisheng Ran. Grassmann Neighborhood Preserving Autoencoder for Image Set Classification[C]. In: International Conference on Intelligent Computing. Singapore: Springer Nature Singapore, 2025: 398-409.
 ```
+- 对称正定流形上的研究
+```
+[1] Junshi Cheng (程军仕), Ruisheng Ran, Bin Fang, Benchao Li (李本超). Symmetric Positive Definite manifold deep metric learning for bearing fault diagnosis[J], Engineering Applications of Artificial Intelligence, 2026, 167: 113821.
+```
