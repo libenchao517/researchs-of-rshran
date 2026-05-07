@@ -53,6 +53,8 @@
 [1] Benchao Li (李本超), Yuanyuan Zheng (郑媛媛), Ruisheng Ran. 2DUMAP: Two-Dimensional Uniform Manifold Approximation and Projection for Fault Diagnosis[J]. IEEE Access, 2025, 13 12819-12831.
 [2] Benchao Li (李本超), Yun Zou (邹运), Ruisheng Ran. MCFG with GUMAP: A Simple and Effective Clustering Framework on Grassmann Manifold[C]. In: International Conference on Computational Visual Media (CVM 2025). Springer, 2025: 247-265. 
 [3] Yun Zou (邹运), Benchao Li (李本超), Ruisheng Ran. Joint UMAP for Visualization of Time-Dependent Data[C]. In: International Conference on Computational Visual Media (CVM 2025). Springer, 2025: 266-288.
+[4] Benchao Li (李本超), Yun Zou (邹运), Ruisheng Ran. KUMAP: Kernel Uniform Manifold Approximation and Projection for Medical Image Classification[J]. Expert Systems, 2026, 43(6): e70286.
+
 ```
 - 格拉斯曼流形上的研究
 ```
